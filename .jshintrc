@@ -7,5 +7,6 @@
   "unused": true,
   "boss": true,
   "eqnull": true,
-  "browser": true
+	"browser": true,
+	"devel": true
 }
